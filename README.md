@@ -31,7 +31,7 @@ Hane Aylık Geliri Kontrolü
 
 Toplu Mail Gönderme
 
-![image](https://user-images.githubusercontent.com/14005027/196560340-80e1ebb9-947d-4781-bc83-e29e2e36c54e.png)
+![image](https://user-images.githubusercontent.com/14005027/196560938-8f851699-22ca-4b6e-9531-5d0e5b3f023d.png)
 
 Bütçe Raporlama
 
