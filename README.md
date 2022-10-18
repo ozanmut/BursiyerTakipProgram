@@ -1,5 +1,5 @@
 # Bursiyer Takip Programı
- Burs verenler için bir windows desktop programı.
+ Burs verenler için windows desktop programı.
   Özellikler:
   1. Bursiyer giriş ekranı, bursiyer bilgileri ve ödenen burslar, 
   2. Yıl dönem bazında öğrenci notları girişi (genel ve dönem not ortalaması)
