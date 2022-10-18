@@ -16,7 +16,8 @@ Veritabanı: Sqlite
 
 Uyumluluk: Windows 32/64 bit.
 
-![image](https://user-images.githubusercontent.com/14005027/196560099-4623c2c0-a42c-4a91-8039-897b3b465b30.png)
+![image](https://user-images.githubusercontent.com/14005027/196560686-726b3696-9524-47b1-bd10-fce37acb2b62.png)
+
 
 
 
