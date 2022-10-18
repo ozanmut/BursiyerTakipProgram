@@ -16,4 +16,24 @@ Veritabanı: Sqlite
 
 Uyumluluk: Windows 32/64 bit.
 
-![image](https://user-images.githubusercontent.com/14005027/196559420-7babd420-ca54-47d8-a17f-52b9b247c2d9.png)
+![image](https://user-images.githubusercontent.com/14005027/196560099-4623c2c0-a42c-4a91-8039-897b3b465b30.png)
+
+
+
+Not Alarmı:
+
+![image](https://user-images.githubusercontent.com/14005027/196560182-abdd694c-c17c-4ba0-a5cf-aa45fb66304c.png)
+
+
+Hane Aylık Geliri Kontrolü
+
+![image](https://user-images.githubusercontent.com/14005027/196560290-61534c36-2f12-4ed4-a4cd-f313f908224b.png)
+
+Toplu Mail Gönderme
+
+![image](https://user-images.githubusercontent.com/14005027/196560340-80e1ebb9-947d-4781-bc83-e29e2e36c54e.png)
+
+Bütçe Raporlama
+
+![image](https://user-images.githubusercontent.com/14005027/196560422-42949ff9-06fa-4cec-8373-3ef4be95086a.png)
+
