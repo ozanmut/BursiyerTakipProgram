@@ -6,7 +6,7 @@
   3. Not alarmı (belli not ortalamasını geçemeyenler için) mail gönderme
   4. Hane aylık geliri kontrolü
   5. Toplu mail gönderme 
-  6. Bütçe raporu (bütçe dönemi bazında yapılan ödemeler ve alan bakiye)
+  6. Bütçe raporu (bütçe dönemi bazında yapılan ödemeler ve kalan bakiye)
 
 Teknoloji:
 
